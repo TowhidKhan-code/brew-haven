@@ -1,6 +1,15 @@
 /* Normalize.css v8.0.1 - Modern, lightweight browser reset */
 @import url('https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css');
 
+/* ===============================
+   GLOBAL RESET (CRITICAL)
+================================ */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 :root {
   --primary-brown: #4B2E2A;     /* Deep rich coffee brown – main accent */
   --warm-beige: #D4A574;       /* Warm tan/beige – highlights & secondary accents */
@@ -80,7 +89,7 @@ header a:hover, footer a:hover {
 .btn {
   background-color: var(--primary-brown);
   color: var(--light-text);
-  padding: 14px 32px;
+  padding: 20px 32px;
   border: none;
   border-radius: 4px;
   font-size: 18px;
