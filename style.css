@@ -322,6 +322,12 @@ footer {
     font-size: 32px;
   }
 
+  #menu,
+#about,
+#contact {
+  scroll-margin-top: 220px;
+}
+
   .menu-grid,
   .about-section {
     grid-template-columns: 1fr;
