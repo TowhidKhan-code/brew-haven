@@ -1,10 +1,4 @@
-Here you go ✅
-This is **100% copy-paste ready**, no fixes needed.
-Just replace `your-username` and links when you’re ready.
 
----
-
-```md
 # ☕ Brew Haven — Modern Coffee Shop Website
 
 A fully responsive, modern coffee shop website built using **semantic HTML5 and modern CSS**.  
@@ -31,9 +25,9 @@ This project was created to **validate real-world frontend fundamentals** before
 
 ## 🔗 Live Preview
 
-> _(Add this after deploying on GitHub Pages)_
 
-https://your-username.github.io/brew-haven
+
+https://towhidkhan-code.github.io/brew-haven/
 
 ---
 
@@ -119,21 +113,19 @@ brew-haven/
 ├── style.css
 └── README.md
 
-````
-
----
+```
 
 ## 🚀 How to Run Locally
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/brew-haven.git
+git clone https://github.com/TowhidKhan-code/brew-haven.git
 ````
 
 2. Open `index.html` in your browser
    (No build tools required)
 
----
+```
 
 ## 📌 What I Learned
 
@@ -160,8 +152,8 @@ git clone https://github.com/your-username/brew-haven.git
 **Towhid Khan**
 Aspiring Frontend Developer
 
-* GitHub: [https://github.com/your-username](https://github.com/your-username)
-* LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+* GitHub: [https://github.com/TowhidKhan-code](https://github.com/TowhidKhan-code)
+* LinkedIn: [https://www.linkedin.com/in/towhid-khan-320b5734b?utm_source=share_via&utm_content=profile&utm_medium=member_android](https://www.linkedin.com/in/towhid-khan-320b5734b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
@@ -171,11 +163,4 @@ This project is open source and available under the **MIT License**.
 
 ```
 
----
 
-If you want next:
-- A **GitHub profile README**
-- Or to **start JavaScript using this project**
-
-Just say the word 🚀
-```
