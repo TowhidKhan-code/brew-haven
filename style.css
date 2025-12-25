@@ -259,7 +259,7 @@ footer {
 
 .footer-content { max-width: 1200px; margin: 0 auto; display: flex; flex-direction: column; align-items: center; gap: 20px; }
 
-.social-links a{
+.social-links a:any-link{
   color: var(--light-text);
   font-size: 24px;
   margin: 0 15px;
