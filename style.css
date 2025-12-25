@@ -314,6 +314,7 @@ footer {
     .menu-grid,
     .about-section{
         grid-template-columns: 1fr;
+        justify-content: center;
         /* grid-auto-flow: row; */
     }
 }
@@ -333,5 +334,6 @@ footer {
 
     .menu-grid{
         grid-template-columns: 1fr 1fr;
+        justify-content: center;
     }
 }
